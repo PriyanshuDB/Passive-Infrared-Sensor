@@ -8,6 +8,5 @@ to detect every separate instance of motion.
 
 Video demonstration : https://drive.google.com/file/d/1tsg-ZAlPKvEHcKlVA6mr16sN6jvpxaIp/view?usp=sharing
 
-Simulation : https://www.tinkercad.com/things/1KZYfi22x1M/editel
-(To simulate, click on Start Simulation at the top right. To see the output on the serial monitor, click on Code , then Serial monitor. Click on the PIR sensor and drag the object that
-appears in front of it to make it move, to give input to the sensor)
+Simulation : https://www.tinkercad.com/things/1KZYfi22x1M-passive-infrared-sensor?sharecode=PwONgOE8i5m193fqGazVOW_ulo12cuhbS6_nOE1XUGE
+(To simulate, click on Simulate, then Start Simulation. To see the output on the serial monitor, click on Code, then Serial monitor. Sensor caliberation time is 30s. Once "Sensor ready" appears on the serial monitor, click on the PIR sensor and drag the object that appears in front of it to make it move, to give input to the sensor)
